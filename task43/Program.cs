@@ -16,4 +16,4 @@ double k2 = Convert.ToInt32(Console.ReadLine());
 double x = (-b2 + b1) / (-k1 + k2);
 double y = k2 * x + b2;
 
-Console.WriteLine($"Точкой пересечения двух прямых будет равна: X-{x}, Y-{y}");
+Console.WriteLine($"Точкой пересечения двух прямых будет равна: X: {x}, Y: {y}");
